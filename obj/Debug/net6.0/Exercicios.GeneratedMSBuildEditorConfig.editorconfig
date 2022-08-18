@@ -15,6 +15,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\etec\Desktop\Exercicios
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/etec/Desktop/Exercicios/Views/Condicionais/CondicionalIf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZGljaW9uYWlzXENvbmRpY2lvbmFsSWYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/etec/Desktop/Exercicios/Views/Condicionais/CondicionalSwitch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZGljaW9uYWlzXENvbmRpY2lvbmFsU3dpdGNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/etec/Desktop/Exercicios/Views/Condicionais/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uZGljaW9uYWlzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/etec/Desktop/Exercicios/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
