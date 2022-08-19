@@ -28,7 +28,11 @@ namespace Exercicios.Controllers
             return View();
         }
 
-
-
+        [HttpPost]
+        public IActionResult CondicionalSwitch(Pedido pedido)
+        {
+            return View(pedido);
+        }
+        
     }
 }
